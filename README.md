@@ -1,2 +1,3 @@
-# Single-Folder-PDF
-An Script That Puts All The PDF into a Single Folder  
+# Folder - Automater
+
+A Script Which Groups All Particular Files in a Folder to Their Respective Extensions Type 
